@@ -120,7 +120,7 @@ In YAML, infinity is spelled `.inf`, not `inf`.
 ```
 
 ```{note}
-Each Demes model must define at least one deme with an infinte `start_time`.
+Each Demes model must define at least one deme with an infinite `start_time`.
 ```
 
 ### Default values
